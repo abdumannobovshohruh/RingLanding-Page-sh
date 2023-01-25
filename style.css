@@ -1,32 +1,32 @@
 *{
-    padding: 0;
-    margin: 0;
-    list-style: none;
+padding: 0;
+margin: 0;
+list-style: none;
 }
 body{
-    font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat', sans-serif;
 }
 nav{
-   background: url(img/shubham-dhage-g_WPAiUc1Us-unsplash\ 1.png);
-   background-repeat: no-repeat;
-   background-size: cover;
+background: url(img/shubham-dhage-g_WPAiUc1Us-unsplash\ 1.png);
+background-repeat: no-repeat;
+background-size: cover;
 }
 .nftCard{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+display: flex;
+justify-content: space-between;
+align-items: center;
 }
 .list{
-    display: flex;
-    justify-content: space-between;
+display: flex;
+justify-content: space-between;
 }
 .list_a{
-    text-decoration: none;
-    color: #c5b6b6;
+text-decoration: none;
+color: #c5b6b6;
 }
 .nft_a{
-    color: #FFFFFF;
-    text-decoration: none;
+color: #FFFFFF;
+text-decoration: none;
 }
 .nft{
 font-weight: 700;
@@ -77,30 +77,30 @@ padding: 6px 26px;
 border: none;
 }
 .exploreCard{
-    margin-bottom: 100px;
+margin-bottom: 100px;
 }
 .wadeCard{
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(140.08deg, #9CD2EE 3.42%, #00ACEE 95.98%);
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(140.08deg, #9CD2EE 3.42%, #00ACEE 95.98%);
 box-shadow: -46px -61px 36px rgba(0, 0, 0, 0.25);
 border-radius: 10px;
 /* transform: rotate(-180deg); */
 }
 .price{
-    font-weight: 700;
-    font-size: 18px;
-    color: #F4F4F4;
+font-weight: 700;
+font-size: 18px;
+color: #F4F4F4;
 }
 .wadeCard-3{
-  display: flex;
-  align-items: start;
+display: flex;
+align-items: start;
 }
 .number{
-    font-weight: 700;
+font-weight: 700;
 font-size: 24px;
 color: #F4F4F4;
 }
 .numberS{
-    font-weight: 400;
+font-weight: 400;
 font-size: 15px;
 }
 .wonder{
@@ -109,16 +109,16 @@ font-size: 16px;
 color: #F4F4F4;
 }
 .wadeCard-4{
-    display: flex;
-    align-items: end;
+display: flex;
+align-items: end;
 }
 .wadeCard-2{
-    padding-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+padding-left: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
 }
 .wadeCard{
-    margin-top: 350px;
+margin-top: 350px;
 }
 /* ======================================================== */
 .new{
@@ -138,9 +138,9 @@ margin-bottom: 50px;
 }
 /* ======================================================== */
 .ring{
-    margin-top: 20px;
-    text-align: center;
-    font-weight: 700;
+margin-top: 20px;
+text-align: center;
+font-weight: 700;
 font-size: 32px;
 color: #232222;
 }
@@ -149,30 +149,30 @@ width: 310px;
 height: 344px;
 }
 .ringS{
-    color: #FFFFFF;
+color: #FFFFFF;
 }
 #zero{
-    background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
 box-shadow: 12px 18px 30px rgba(0, 0, 0, 0.08);
 border-radius: 20px;
 padding-bottom: 20px;
 }
 /* ======================================================== */
 .flower{
-    width: 310px;
+width: 310px;
 height: 236px;
 }
 .webb{
-    font-weight: 700;
+font-weight: 700;
 font-size: 18px;
 color: #232222;
 margin-top: 20px;
 margin-left: 20px;
 }
 .night{
-    display: flex;
-    align-items: start;
-    margin-left: 20px;
+display: flex;
+align-items: start;
+margin-left: 20px;
 }
 .goldN{
 font-weight: 700;
@@ -217,7 +217,137 @@ padding: 6px 26px;
 border: none;
 }
 /* ======================================================== */
-.left{
+.paper{
+width: 530px;
+height: 452px;
+background: url(img/Rectangle\ 17.png);
 }
+.center{
+width: 530px;
+height: 452px;
+background: url(img/Rectangle\ 16.png);
+}
+.almost{
+width: 115px;
+height: 452px;
+background: url(img/Rectangle\ 20.png);
+}
+.left{
+width: 100px;
+height: 452px;
+}
+.what{
+padding: 15px 15px 0px 55px;
+font-weight: 700;
+font-size: 24px;
+}
+.what-2{
+/* padding: 15px 15px 0px 55px; */
+font-weight: 700;
+font-size: 24px;
+}
+.centerCard{
+top: 350px;
+position: relative;
+width: 310px;
+height: 102px;
+background: #F4F4F4;
+}
+.centerCard-2{
+top: 350px;
+position: relative;
+width: 115px;
+height: 102px;
+background: #F4F4F4;
+}
+/* ======================================================== */
+.care{
+width: 310px;
+height: 236px;
+}
+/* ======================================================== */
+.bigCard{
+margin-top: 60px;
+background: #F4F4F4;;
+}
+.billion{
+margin-left: 30px;
+}
+/* ======================================================== */
+.space{
+background: url(img/shubham-dhage-_afH9fjiom0-unsplash\ 26.png);
+margin-bottom: 100px;
+}
+.loop{
+margin-top: 232px;
+font-weight: 700;
+font-size: 48px;
+color: #232222;
+}
+.money{
+margin-top: 20px;
+font-weight: 400;
+font-size: 20px;
+color: #232222;
+margin-bottom: 48px;
+}
+.subject{
+margin-left: 40px;
+}
+.adres{
+padding: 11px 218px 11px 20px;
+border: none;
+outline: none;
+}
+.free{
+margin-bottom: 100px;
+}
+.two{
+padding: 8px 28px;
+font-weight: 700;
+font-size: 20px;
+color: #FFFFFF;
+background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+border-radius: 10px;
+border: none;
+position: relative;
+right: 10px;
+}
+/* ======================================================== */
+.nftCard-f{
+display: flex;
+align-items: center;
+}
+.nft_a-f{
+color:black;
+text-decoration: none;
+padding-left: 15px;
+}
+.nft-f{
+font-weight: 700;
+font-size: 20px;
+}        
+.world{     
+margin-top: 30px;
+color: #232222;
+font-weight: 400;
+font-size: 20px;
+}
+.power{
+font-weight: 700;
+font-size: 20px;
+color: #232222;
+}
+.art{
+font-weight: 400;
+font-size: 20px;
+color: #232222;
+}
+/* ======================================================== */
+/* ======================================================== */
+/* ======================================================== */
+/* ======================================================== */
+/* ======================================================== */
+/* ======================================================== */
 /* ======================================================== */
 /* ======================================================== */
