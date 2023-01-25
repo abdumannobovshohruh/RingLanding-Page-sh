@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+   background: url(img/shubham-dhage-g_WPAiUc1Us-unsplash\ 1.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.nftCard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+.list_a{
+    text-decoration: none;
+    color: #c5b6b6;
+}
+.nft_a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.nft{
+font-weight: 700;
+font-size: 20px;
+
+}
+.login{
+font-weight: 700;
+font-size: 20px;
+color: #F4F4F4;
+background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+box-shadow: 15px 15px 35px rgba(226, 142, 15, 0.18);
+border-radius: 10px;
+padding: 6px 26px;
+border: none;
+}
+/* ======================================================== */
+.home{
+margin-top: 100px;
+font-weight: 700;
+font-size: 48px;
+color: #FFFFFF;
+}
+.concept{
+margin-top: 40px;
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+margin-bottom: 40px;
+}
+.create{
+background: url(shubham-dhage-g_WPAiUc1Us-unsplash.jpg);    
+border: 1px solid #FF8E1E;
+border-radius: 10px;
+padding: 6px 26px;
+margin-left: 40px;
+color: #FFFFFF;
+font-weight: 700;
+font-size: 20px;
+}
+.explore{
+font-weight: 700;
+font-size: 20px;
+color: #FFFFFF;
+background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+border-radius: 10px;
+padding: 6px 26px;
+border: none;
+}
+.exploreCard{
+    margin-bottom: 100px;
+}
+.wadeCard{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(140.08deg, #9CD2EE 3.42%, #00ACEE 95.98%);
+box-shadow: -46px -61px 36px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+/* transform: rotate(-180deg); */
+}
+.price{
+    font-weight: 700;
+    font-size: 18px;
+    color: #F4F4F4;
+}
+.wadeCard-3{
+  display: flex;
+  align-items: start;
+}
+.number{
+    font-weight: 700;
+font-size: 24px;
+color: #F4F4F4;
+}
+.numberS{
+    font-weight: 400;
+font-size: 15px;
+}
+.wonder{
+font-weight: 700;
+font-size: 16px;
+color: #F4F4F4;
+}
+.wadeCard-4{
+    display: flex;
+    align-items: end;
+}
+.wadeCard-2{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.wadeCard{
+    margin-top: 350px;
+}
+/* ======================================================== */
+.new{
+margin-top: 80px;
+text-align: center;
+font-weight: 700;
+font-size: 48px;
+color: #232222;
+}
+.this{
+margin-top: 25px;
+font-weight: 400;
+font-size: 20px;
+color: #232222;
+text-align: center;
+margin-bottom: 50px;
+}
+/* ======================================================== */
+.ring{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 700;
+font-size: 32px;
+color: #232222;
+}
+.sfera{
+width: 310px;
+height: 344px;
+}
+.ringS{
+    color: #FFFFFF;
+}
+#zero{
+    background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+box-shadow: 12px 18px 30px rgba(0, 0, 0, 0.08);
+border-radius: 20px;
+padding-bottom: 20px;
+}
+/* ======================================================== */
+.flower{
+    width: 310px;
+height: 236px;
+}
+.webb{
+    font-weight: 700;
+font-size: 18px;
+color: #232222;
+margin-top: 20px;
+margin-left: 20px;
+}
+.night{
+    display: flex;
+    align-items: start;
+    margin-left: 20px;
+}
+.goldN{
+font-weight: 700;
+font-size: 24px;
+color: #FF8E1E;
+margin-left: 10px;
+}
+.darell{
+display: flex;
+align-items: end;
+margin-left: 20px;
+}
+.ward{
+margin-left: 20px;
+font-weight: 700;
+font-size: 16px;
+color: #232222;
+}
+.softCard{
+background: #F4F4F4;
+box-shadow: 12px 18px 30px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+}
+/* ======================================================== */
+.now{
+font-weight: 700;
+font-size: 48px;
+color: #232222;
+}
+.news{
+font-weight: 400;
+font-size: 20px;
+color: #232222;
+}
+.see{
+font-weight: 700;
+font-size: 20px;
+color: #FFFFFF;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(140.08deg, #9CD2EE 3.42%, #00ACEE 95.98%);
+border-radius: 10px;
+padding: 6px 26px;
+border: none;
+}
+/* ======================================================== */
+.left{
+}
+/* ======================================================== */
+/* ======================================================== */
