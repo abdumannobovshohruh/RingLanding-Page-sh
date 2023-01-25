@@ -11,6 +11,10 @@ background: url(img/shubham-dhage-g_WPAiUc1Us-unsplash\ 1.png);
 background-repeat: no-repeat;
 background-size: cover;
 }
+.blueComa{
+width: 40px;
+height: 40px;
+}
 .nftCard{
 display: flex;
 justify-content: space-between;
@@ -23,6 +27,8 @@ justify-content: space-between;
 .list_a{
 text-decoration: none;
 color: #c5b6b6;
+/* font-weight: 400x; */
+font-size: 16px; 
 }
 .nft_a{
 color: #FFFFFF;
@@ -343,7 +349,17 @@ font-weight: 400;
 font-size: 20px;
 color: #232222;
 }
-/* ======================================================== */
+/* ==================Responsive====================================== */
+@media (max-width: 575px) {
+    .blueComa {
+        width: 110px;
+        height: 110px;
+    }  
+    .nft {
+        font-weight: 700;
+        font-size: 40px;
+    }  
+}
 /* ======================================================== */
 /* ======================================================== */
 /* ======================================================== */
