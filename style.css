@@ -369,18 +369,25 @@ color: #232222;
 .nft {
     font-weight: 700;
     font-size: 36px;
-    margin-left: 63px;
+    margin-left: 12px;
 }
-.login{
+.login {
     font-weight: 700;
-font-size: 20px;
-color: #F4F4F4;
-background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
-box-shadow: 15px 15px 35px rgba(226, 142, 15, 0.18);
-border-radius: 10px;
-padding: 6px 26px;
-border: none;
+    font-size: 31px;
+    color: #F4F4F4;
+    background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+    box-shadow: 15px 15px 35px rgb(226 142 15 / 18%);
+    border-radius: 10px;
+    padding: 6px 26px;
+    border: none;
+    margin-left: 200px;
 }
+/* nav {
+    background: url(img/shubham-dhage-g_WPAiUc1Us-unsplash\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 730px;
+} */
 }
 /* ======================================================== */
 /* ======================================================== */
