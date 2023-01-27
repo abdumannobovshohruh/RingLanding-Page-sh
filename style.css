@@ -150,19 +150,30 @@ font-weight: 700;
 font-size: 32px;
 color: #232222;
 }
+.sferaCard:hover{
+    background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+    box-shadow: 12px 18px 30px rgba(0, 0, 0, 0.08);
+}
+.sferaCard{
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
 .sfera{
 width: 310px;
 height: 344px;
 }
-.ringS{
-color: #FFFFFF;
+.ring{
+color: #232222;
 }
-#zero{
+.ring:hover{
+    color: #FFFFFF;
+}
+/* #zero{
 background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
 box-shadow: 12px 18px 30px rgba(0, 0, 0, 0.08);
 border-radius: 20px;
 padding-bottom: 20px;
-}
+} */
 /* ======================================================== */
 .flower{
 width: 310px;
@@ -352,13 +363,24 @@ color: #232222;
 /* ==================Responsive====================================== */
 @media (max-width: 575px) {
     .blueComa {
-        width: 110px;
-        height: 110px;
-    }  
-    .nft {
-        font-weight: 700;
-        font-size: 40px;
-    }  
+        width: 99px;
+        height: 79px;
+    }
+.nft {
+    font-weight: 700;
+    font-size: 36px;
+    margin-left: 63px;
+}
+.login{
+    font-weight: 700;
+font-size: 20px;
+color: #F4F4F4;
+background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+box-shadow: 15px 15px 35px rgba(226, 142, 15, 0.18);
+border-radius: 10px;
+padding: 6px 26px;
+border: none;
+}
 }
 /* ======================================================== */
 /* ======================================================== */
