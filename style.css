@@ -90,6 +90,7 @@ background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linea
 box-shadow: -46px -61px 36px rgba(0, 0, 0, 0.25);
 border-radius: 10px;
 /* transform: rotate(-180deg); */
+margin-top: 350px;
 }
 .price{
 font-weight: 700;
@@ -122,9 +123,6 @@ align-items: end;
 padding-left: 20px;
 padding-top: 20px;
 padding-bottom: 20px;
-}
-.wadeCard{
-margin-top: 350px;
 }
 /* ======================================================== */
 .new{
@@ -161,9 +159,6 @@ color: #232222;
 .sfera{
 width: 310px;
 height: 344px;
-}
-.ring{
-color: #232222;
 }
 .ring:hover{
     color: #FFFFFF;
@@ -373,20 +368,137 @@ color: #232222;
 }
 .login {
     font-weight: 700;
-    font-size: 31px;
+    font-size: 44px;
     color: #F4F4F4;
     background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
     box-shadow: 15px 15px 35px rgb(226 142 15 / 18%);
     border-radius: 10px;
     padding: 6px 26px;
     border: none;
-    margin-left: 200px;
+    margin-left: 127px;
 }
 nav {
     background: url(img/shubham-dhage-g_WPAiUc1Us-unsplash\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
+    /* width: 210%; */
     width: 730px;
+}
+.home {
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 82px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.concept {
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 37px;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.explore {
+    font-weight: 700;
+    font-size: 48px;
+    color: #FFFFFF;
+    background: linear-gradient(132.95deg, #FFC301 9.31%, #FF6533 79.4%);
+    border-radius: 10px;
+    padding: 6px 26px;
+    border: none;
+}
+.create {
+    background: url(shubham-dhage-g_WPAiUc1Us-unsplash.jpg);
+    border: 1px solid #FF8E1E;
+    border-radius: 10px;
+    padding: 6px 26px;
+    margin-left: 40px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 48px;
+}
+.exploreCard {
+    text-align: center;
+    margin-top: 78px;
+}
+.wadeCard {
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.price {
+    font-weight: 700;
+    font-size: 39px;
+    color: #F4F4F4;
+}
+.hush{
+    width: 40px;
+}
+.number {
+    font-weight: 700;
+    font-size: 33px;
+    color: #F4F4F4;
+}
+.numberS {
+    font-weight: 400;
+    font-size: 35px;
+}
+.woman{
+    width: 100px;
+}
+.wonder {
+    font-weight: 700;
+    font-size: 34px;
+    color: #F4F4F4;
+}
+.new {
+    width: 689px;
+    margin-top: 80px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    color: #232222;
+}
+.this {
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 35px;
+    color: #232222;
+    text-align: center;
+    margin-bottom: 50px;
+    width: 693px;
+}
+.sfera {
+    width: 654px;
+    height: 513px;
+    /* width: 100%; */
+}
+.ring {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 54px;
+    color: #232222;
+}
+.sferaCard {
+    border-radius: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    width: 186%;
+}
+.flower {
+    width: 300px;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+}
+.softCard {
+    background: #F4F4F4;
+    box-shadow: 12px 18px 30px rgb(0 0 0 / 10%);
+    border-radius: 20px;
+    width: 302px;
+    margin-bottom: 50px;
+    margin-right: 50px;
 }
 }
 /* ======================================================== */
