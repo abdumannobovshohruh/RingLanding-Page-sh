@@ -500,7 +500,34 @@ color: #232222;
 .care{
     width: 100%;
     height: 100%;
-    margin-top: 20px;
+}
+.news {
+    font-weight: 400;
+    font-size: 14px;
+    color: #232222;
+}
+.billion{
+    margin: 0;
+}
+.bigCard{
+    margin: 0;
+}
+.space{
+    margin: 0;
+    width: 100%;
+}
+.loop {
+    margin-top: 63px;
+    font-weight: 700;
+    font-size: 34px;
+    color: #232222;
+}
+.adres{
+    margin-bottom: 20px;
+    width: 100%;
+}
+.world{
+    font-size: 15px;
 }
 }
 /* ======================================================== */
